@@ -1,0 +1,7 @@
+  <dependencies>
+    <dependency>
+      <groupId>cn.leancloud</groupId>
+      <artifactId>java-sdk</artifactId>
+      <version>0.1.6</version>
+    </dependency>
+  </dependencies>

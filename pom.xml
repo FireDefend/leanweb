@@ -1,4 +1,5 @@
-  <dependencies>
+<packaging>war</packaging>  
+<dependencies>
     <dependency>
       <groupId>cn.leancloud</groupId>
       <artifactId>java-sdk</artifactId>
